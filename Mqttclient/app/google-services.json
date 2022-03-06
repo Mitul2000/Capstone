@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494014314077",
+    "firebase_url": "https://piralarm-c1941-default-rtdb.firebaseio.com",
+    "project_id": "piralarm-c1941",
+    "storage_bucket": "piralarm-c1941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494014314077:android:63b3743bddca6cf0cfbfb4",
+        "android_client_info": {
+          "package_name": "com.example.mqttclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494014314077-d0hcnts2082ih5upo4e27agjtgqbv0ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0FSppPUUYEbABX9OG_D8RFzjZwGgv76g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494014314077-d0hcnts2082ih5upo4e27agjtgqbv0ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
